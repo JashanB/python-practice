@@ -1,0 +1,4 @@
+Billed toTerms
+SubtotalDiscount(Tax rate)
+Tax
+INVOICEInvoice numberDate of issueUnit costQty / Hr rateAmountInvoice totalDescriptionFreshBooks makes it easier to get paid faster. 
